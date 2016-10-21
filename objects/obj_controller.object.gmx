@@ -55,6 +55,7 @@ Control Number of Created Instances
 ******************************/
 global.context_button = false;
 
+//This is a test for GitHub
 </string>
           </argument>
         </arguments>
