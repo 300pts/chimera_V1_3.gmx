@@ -1,0 +1,6 @@
+cardid,cardtype,color,cost,name,attk,def,description,card_img
+1,creature,u,3,Serpent,1,2,"""Shed Skin"" Discard a card: Refresh this Creature.",
+2,creature,b,3,Raven,1,1,"Aerial / ""Troublemaker"" : Sap, Lose 1 life: Draw a card.",
+3,creature,g,2,Peacock,1,1,Hexproof (Creatures with hexproof cannot be the target of spells or abilities opponent's control.),
+4,creature,w,4,Cockroach,0,4,Indestructible (Creatures with indestructible cannot be destroyed.),
+5,creature,r,3,Fox,1,2,"""Pounce"" (1)+Sap: This creature deals ite's attack value as combat damage to target creature.",
